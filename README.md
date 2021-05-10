@@ -7,7 +7,7 @@ sudo nano /etc/default/grub
 sudo update-grub
 sudo reboot now
 # Press CTRL + ALT + F1
-sudo service mdm stop
+sudo service lightdm stop
 # Press CTRL + ALT + F2
 # Press CTRL + ALT + F1
 chmod +x NVIDIA-Linux-x86_64-460.39.run
