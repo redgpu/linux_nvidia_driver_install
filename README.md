@@ -15,3 +15,7 @@ sudo ./NVIDIA-Linux-x86_64-460.39.run
 # On "Would you like to run the nvidia-xconfig utility..." choose "Yes"
 sudo reboot now
 ```
+---
+```
+QT_DEBUG_PLUGINS=1 ./ngfx-ui
+```
